@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeepa Sadewaka</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+Sandeepa+Sadewaka+&hearts;++;Self-taught+Front-End+Developer,;Software+Engineering+undergraduate,;Active+Learner/Educator,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeepa-sadewaka&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa-sadewaka" /> </p>
