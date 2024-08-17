@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeepa Sadewaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepa-sadewaka&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa-sadewaka" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeepa-sadewaka&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa-sadewaka" /> </p>
 
 - 🌱 I’m currently learning **PHP**
 
