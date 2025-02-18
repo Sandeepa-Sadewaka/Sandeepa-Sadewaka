@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeepa-sadewaka&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa-sadewaka" /> </p>
 <h3 align="left">A passionate frontend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **nodeJs**
 
 - 💬 Ask me about **Java**
 
