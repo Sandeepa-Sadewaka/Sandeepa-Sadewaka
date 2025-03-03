@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandeepa nadeeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepa nadeeshan" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/sandeepa nadeeshan](https://www.linkedin.com/in/sandeepa-nadeeshan-32384b311/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepa nadeeshan" height="30" width="40" /></a>
 <a href="https://fb.com/sandeepa sadewaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandeepa sadewaka" height="30" width="40" /></a>
 <a href="https://instagram.com/s.s.nadeeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.s.nadeeshan" height="30" width="40" /></a>
 </p>
